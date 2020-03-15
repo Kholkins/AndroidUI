@@ -33,6 +33,6 @@
         android:text="Set sail"
         android:textSize="30sp"
         android:layout_marginBottom="20dp"
-        android:layout_marginRight="10"
+        android:layout_marginRight="10dp"
         android:rotation="-30"/>
 </RelativeLayout>
