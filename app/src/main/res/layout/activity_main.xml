@@ -16,5 +16,5 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:srcCompat="@drawable/fishing_boat" />
+        tools:srcCompat="@drawable/boat" />
 </androidx.constraintlayout.widget.ConstraintLayout>
